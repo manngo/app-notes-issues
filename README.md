@@ -1,5 +1,3 @@
-<
-
 # App Notes
 
 App Notes is a Menu Bar application which gives you the ability to add notes for individual applications. Each Application owns a single note which can be saved indefinitely.
